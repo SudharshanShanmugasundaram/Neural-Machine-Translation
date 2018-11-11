@@ -10,7 +10,9 @@ by reducing the dataset to the 10,000 examples.*
 I would encourage you to explore and develop a model on the fuller dataset as an extension.
 
 # Dataset
-The dataset used can be downloaded here : [German – English deu-eng.zip](www.manythings.org/anki/deu-eng.zip)
+The dataset is available from the ManyThings.org website, with examples drawn from the Tatoeba Project. The dataset is comprised of German phrases and their English counterparts.
+
+The dataset used can be downloaded here : [German – English deu-eng.zip](http://www.manythings.org/anki/deu-eng.zip)
 
 # Requirements
 1. Python
